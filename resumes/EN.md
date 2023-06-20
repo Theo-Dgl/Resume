@@ -47,7 +47,7 @@ Ideally, I would like to work for a software publisher or an end-customer with a
 
 #### Fairlyne - Ticket resale platform: 
 
-Tech lead for the startup, defining the stack and bootstrapping the platform for a partnership with OuiGo.  
+Tech lead for the startup, defining the stack and bootstrapping of the platform for a partnership with OuiGo.  
 ##### Technologies used:
 - Lambda
 - DynamoDB
@@ -58,7 +58,8 @@ Tech lead for the startup, defining the stack and bootstrapping the platform for
 
 #### Fairlyne - Customer departure detection platform:
 
-Bootstrapping and designing departure detection in a white-label hotel reservation tunnel.  
+Bootstrapping and design of a departure detection platform in a white-label hotel reservation tunnel.
+
 ##### Technologies used:
 - Svelte
 - API Gateway
@@ -72,7 +73,8 @@ Bootstrapping and designing departure detection in a white-label hotel reservati
 
 #### Liiv - Legal platform specialized in economic law:
 
-Full-stack development, feature implementation, data migration, performance optimization, delivery process improvement.  
+Full-stack development, feature implementation, data migration, performance optimization, delivery process improvement.
+
 ##### Technologies used:
 - Google Cloud Function
 - Firebase Auth
@@ -108,7 +110,11 @@ Team leader of a multidisciplinary team. Facilitation of technical workshops, te
 
 - Web development (Laravel / Angular): Developed a platform to manage end-user licenses for the company's mobile applications. API developed with the Lumen micro-framework.
 - Mobile application development (Java / Android SDK): Developed applications for the company's new product line (Bluetooth LE/Uart) for the general public.
-- Rich client application development: Developed ticket management software for employee assistance services, professional interview module integrated with the company's ERP, ticket management module integrated with the company's ERP, and designed an ORM to facilitate access to data stored in the database for developers.
+- Rich client application development: 
+  - Developed ticket management software for employee assistance services
+  - Professional interview module integrated with the company's ERP
+  - Ticket management module integrated with the company's ERP
+  - Designed an ORM to facilitate access to data stored in the database for developers.
 - Analysis of the entropy of the company's main software and implementation of an action plan to mitigate it.
 - Project management: Implemented new working methods within the development department, studied and implemented a new software architecture, and implemented collaborative tools (Slack, Gitlab, Trello) and integration with existing tools.
 
