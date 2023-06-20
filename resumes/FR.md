@@ -7,20 +7,20 @@ Full Stack Developer @ Montreal, Quebec, Canada
 - **Email**: 	dimeglio.theo@gmail.com
 - **LinkedIn**: [linkedin.com/in/dimeglio-theo](linkedin.com/in/dimeglio-theo)
 
-## SUMMARY
+## RÉSUMÉ
 
 Récemment arrivé de France, je réside actuellement à Montréal et possède un permis de travail ouvert. 
 J'ai déjà eu l'occasion de travailler en tant que responsable technique pour de petites équipes de développeurs, supervisant jusqu'à présent un maximum de cinq personnes. 
 Je m'intéresse avant tout à la méthodologie du produit et à l'impact des solutions développées, plutôt qu'aux technologies spécifiques employées du moment qu'elles soient pertinentes pour résoudre efficacement le problème posé. 
 Idéalement, j'aimerais travailler pour un éditeur de logiciels ou un client final ayant une présence à Montréal et offrant également des possibilités de travail à distance.
 
-## MAIN SKILLS
+## COMPÉTENCES PRINCIPALES
 
 - Développement back-end
 - Leadership technique
 - DevOps
 
-## LANGUAGES
+## LANGUES
 
 - Français (langue maternelle)
 - Anglais (compétence professionnelle)
@@ -28,16 +28,16 @@ Idéalement, j'aimerais travailler pour un éditeur de logiciels ou un client fi
 ## EXPERIENCE
 
 ### Lead Full Stack Developer @ theTribe 
-<sub>April 2021 - January 2023 (1 year 10 months) | Nantes, France</sub>
+<sub>Avril 2021 - janvier 2023 (1 an 10 mois) | Nantes, France</sub>
 
-- Contributed to the technical launch of several products for startups and small companies
-- Applying product methodologies to ensure successful outcomes.
+- Contribution aux lancements techniques de plusieurs produits pour des startups et des petites entreprises
+- Mise en place et respect de méthodologies produit visant à assurer le succès des projets.
 
-#### Moaï - Customer satisfaction survey visualization platform:
+#### Moaï - Plate-forme de visualisation des enquêtes de satisfaction des clients:
 
-- Tech lead of the development team-
-- Bootstrapping of the technical solution 
-- Teaching web development to a customer.  
+- Leader technique de l'équipe de développement
+- Bootstrapping des socles techniques des produits
+- Formation d'un client au développement web  
 
 ##### Technologies used: 
 - React & TypeScript
@@ -45,9 +45,10 @@ Idéalement, j'aimerais travailler pour un éditeur de logiciels ou un client fi
 - Terraform
 - Docker
 
-#### Fairlyne - Ticket resale platform: 
+#### Fairlyne - Plate-forme de revente de billets: 
 
-Tech lead for the startup, defining the stack and bootstrapping the platform for a partnership with OuiGo.  
+Responsable technique de la startup, définition de la stack et bootstrapping de la plateforme en vue d'un partenariat avec OuiGo.  
+
 ##### Technologies used:
 - Lambda
 - DynamoDB
@@ -56,9 +57,10 @@ Tech lead for the startup, defining the stack and bootstrapping the platform for
 - Gitlab CI
 - AWS CDK
 
-#### Fairlyne - Customer departure detection platform:
+#### Fairlyne - Plateforme de détection des départs de clients:
 
-Bootstrapping and designing departure detection in a white-label hotel reservation tunnel.  
+Bootstrapping et conception d’une plateforme de détection des départs dans un tunnel de réservation d'hôtel en marque blanche.  
+
 ##### Technologies used:
 - Svelte
 - API Gateway
@@ -70,9 +72,10 @@ Bootstrapping and designing departure detection in a white-label hotel reservati
 - AWS CDK
 - Gitlab CI
 
-#### Liiv - Legal platform specialized in economic law:
+#### Liiv - Plate-forme juridique spécialisée en droit économique:
 
-Full-stack development, feature implementation, data migration, performance optimization, delivery process improvement.  
+Développement complet, implémentation de fonctionnalités, migration de données, optimisation des performances, amélioration des processus de livraison.
+
 ##### Technologies used:
 - Google Cloud Function
 - Firebase Auth
@@ -82,52 +85,56 @@ Full-stack development, feature implementation, data migration, performance opti
 - Github
 - CircleCI
 
-#### TheTribe - Internal mission for the startup studio:
+#### TheTribe - Mission interne du startup studio:
 
-Team leader of a multidisciplinary team. Facilitation of technical workshops, tech recruitment, pre-sales collaboration, onboarding automation.
+Team leader d'une équipe pluridisciplinaire. Animation d'ateliers techniques, recrutement technique, participation aux avants-ventes, automatisation de l’onboarding des nouveaux employés.
 
 ### Full Stack Developer
 
-**Anytime** an Orange Bank company | *December 2020 - March 2021 (4 months)* | Nantes, France
+**Anytime** an Orange Bank company | *Décembre 2020 - mars 2021 (4 mois)* | Nantes, France
 
 - Development of the new back-end architecture.
-- Hexagonal architecture / Domain Driven Development.
-- Design and development of the DSP2 authentication brick.
+- Architecture hexagonale / Domain Driven Development.
+- Conception et développement de la brique d'authentification DSP2.
 - Technologies used: Gitlab CI, PHPUnit, Behat, Symfony.
 
-### Software Engineer
+### Developpeur logiciel
 
-**Niji** | *December 2018 - December 2020 (2 years 1 month)* | Nantes, France
+**Niji** | *Décembre 2018 - décembre 2020 (2 ans et 1 mois)* | Nantes, France
 
-- Worked at the Niji "Factory," designing new projects for customers.
-- Analysis, design, and development of web and mobile applications for customers from various sectors (Health, Finance, and Industry).
+- J'ai travaillé au sein de la «Factory» de Niji, où je concevais de nouveaux projets techniques pour les clients.
+- Analyse, conception et développement d'applications web et mobiles pour des clients de divers secteurs (santé, finance et industrie).
 
-### Software Developer
+### Developpeur logiciel
 
-**Portalp** | *June 2015 - November 2018 (3 years 6 months)* | Rennes, France
+**Portalp** | *Juin 2015 - novembre 2018 (3 ans et 6 mois)* | Rennes, France
 
-- Web development (Laravel / Angular): Developed a platform to manage end-user licenses for the company's mobile applications. API developed with the Lumen micro-framework.
-- Mobile application development (Java / Android SDK): Developed applications for the company's new product line (Bluetooth LE/Uart) for the general public.
-- Rich client application development: Developed ticket management software for employee assistance services, professional interview module integrated with the company's ERP, ticket management module integrated with the company's ERP, and designed an ORM to facilitate access to data stored in the database for developers.
-- Analysis of the entropy of the company's main software and implementation of an action plan to mitigate it.
-- Project management: Implemented new working methods within the development department, studied and implemented a new software architecture, and implemented collaborative tools (Slack, Gitlab, Trello) and integration with existing tools.
+- Développement web (Laravel / Angular) : Développement d'une plateforme de gestion des licences des utilisateurs finaux pour les applications mobiles de l'entreprise. API développée avec le micro-framework Lumen.
+- Développement d'applications mobiles (Java / Android SDK) : Développement d'applications pour la nouvelle ligne de produits de l'entreprise (Bluetooth LE/Uart) pour le grand public.
+- Développement d'applications pour clients lourds: 
+  - Développement d'un logiciel de gestion de tickets pour les services d'assistance aux employés
+  - Module d'entretien professionnel intégré à l'ERP de l'entreprise
+  - Module de gestion de tickets intégré à l'ERP de l'entreprise 
+  - Conception d'un ORM dans le language propriétaire de l'entreprise pour faciliter et unifier l'accès aux bases de données lors des développements.
+- Analyse de l'entropie des principaux logiciels de l'entreprise et mise en place d'un plan d'action pour la réduire.
+- Gestion de projet : Mise en place de nouvelles méthodes de travail au sein du département développement, étude et mise en place d'une nouvelle architecture logicielle, mise en place d'outils collaboratifs (Slack, Gitlab, Trello) et intégration avec les outils existants.
 
-## EDUCATION
+## FORMATION
 
-### Information systems and infrastructure manager
+### Management et Stratégie des Systèmes d’Information (MS2I)
 
-3iL - Computer engineering school  
+3iL - École d'ingénieurs en informatique  
 2017 - 2018  
 Limoges, France  
 
-### IT designer and developer
+### Concepteur Développeur Informatique (CDI)
 
-ENI Ecole Informatique - Computer engineering school  
+ENI Ecole Informatique  
 2015 - 2017  
 Nantes, France  
 
-### BTS computer science and networks for industry and technical services, Computer science
+### BTS Informatique et Réseaux pour l'Industrie et les Services Techniques (IRIS)
 
-Maupertuis secondary school  
+Lycée Maupertuis
 2014 - 2015  
 Saint Malo, France  
