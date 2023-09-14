@@ -48,6 +48,7 @@ Ideally, I would like to work for a software publisher or an end-customer with a
 #### Fairlyne - Ticket resale platform: 
 
 Tech lead for the startup, defining the stack and bootstrapping of the platform for a partnership with OuiGo.  
+
 ##### Technologies used:
 - Lambda
 - DynamoDB

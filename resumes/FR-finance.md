@@ -40,7 +40,7 @@ Développeur Full Stack expérimenté avec une solide expérience en développem
 - Bootstrapping des socles techniques des produits
 - Formation d'un client au développement web  
 
-##### Technologies used: 
+##### Technologies utilisées: 
 - React (TypeScript)
 - Python (FastAPI)
 - Terraform
@@ -50,7 +50,7 @@ Développeur Full Stack expérimenté avec une solide expérience en développem
 
 Responsable technique de la startup, définition de la stack et bootstrapping de la plateforme en vue d'un partenariat avec la compagnie ferroviaire OuiGo.  
 
-##### Technologies used:
+##### Technologies utilisées:
 - Lambda (Typescript, NodeJs)
 - DynamoDB
 - SES
@@ -60,9 +60,9 @@ Responsable technique de la startup, définition de la stack et bootstrapping de
 
 #### Fairlyne - Plateforme de détection des départs de clients:
 
-Bootstrapping et conception d’une plateforme de détection des départs dans un tunnel de réservation d'hôtel en marque blanche.  
+Bootstrapping et conception d’une plateforme de détection des départs clients dans un tunnel de réservation d'hôtel en marque blanche.  
 
-##### Technologies used:
+##### Technologies utilisées:
 - Svelte
 - Lambda (NodeJs)
 - API Gateway
@@ -77,7 +77,7 @@ Bootstrapping et conception d’une plateforme de détection des départs dans u
 
 Développement complet, implémentation de fonctionnalités, migration de données, optimisation des performances, amélioration des processus de livraison.
 
-##### Technologies used:
+##### Technologies utilisées:
 - Google Cloud Function (NodeJs)
 - Firebase Auth
 - Algolia
@@ -97,7 +97,7 @@ Team leader d'une équipe pluridisciplinaire. Animation d'ateliers techniques, r
 - Development of the new back-end architecture.
 - Architecture hexagonale / Domain Driven Development.
 - Conception et développement de la brique d'authentification DSP2.
-- Technologies used: Gitlab CI, PHPUnit, Behat, Symfony.
+- Technologies utilisées: Gitlab CI, PHPUnit, Behat, Symfony.
 
 ### Developpeur logiciel
 
