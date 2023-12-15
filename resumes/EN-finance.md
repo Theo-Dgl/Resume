@@ -90,6 +90,8 @@ Team leader of a multidisciplinary team. Facilitation of technical workshops, te
 
 **Anytime** an Orange Bank company | *December 2020 - March 2021 (4 months)* | Nantes, France
 
+In charge of the backend development of this online banking for professionals and associations, mainly involved in designing the architecture of the new core banking system
+
 - Development of the new back-end architecture.
 - Hexagonal architecture / Domain Driven Development.
 - Design and development of the DSP2 authentication brick.

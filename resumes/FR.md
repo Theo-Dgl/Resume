@@ -9,10 +9,7 @@ Full Stack Developer @ Montreal, Quebec, Canada
 
 ## RÉSUMÉ
 
-Récemment arrivé de France, je réside actuellement à Montréal et possède un permis de travail ouvert. 
-J'ai déjà eu l'occasion de travailler en tant que responsable technique pour de petites équipes de développeurs, supervisant jusqu'à présent un maximum de cinq personnes. 
-Je m'intéresse avant tout à la méthodologie du produit et à l'impact des solutions développées, plutôt qu'aux technologies spécifiques employées du moment qu'elles soient pertinentes pour résoudre efficacement le problème posé. 
-Idéalement, j'aimerais travailler pour un éditeur de logiciels ou un client final ayant une présence à Montréal et offrant également des possibilités de travail à distance.
+Développeur Full Stack expérimenté avec une solide expérience en développement logiciel, appliquant une méthodologie centrée sur le produit. Compétent dans le leadership technique et la gestion d'équipes, la collaboration avec les parties prenantes du projet et la création d'applications évolutives. Engagé à fournir des solutions de haute qualité en contribuant à un environnement de travail collaboratif.
 
 ## COMPÉTENCES PRINCIPALES
 
@@ -103,7 +100,27 @@ Team leader d'une équipe pluridisciplinaire. Animation d'ateliers techniques, r
 **Niji** | *Décembre 2018 - décembre 2020 (2 ans et 1 mois)* | Nantes, France
 
 - J'ai travaillé au sein de la «Factory» de Niji, où je concevais de nouveaux projets techniques pour les clients.
-- Analyse, conception et développement d'applications web et mobiles pour des clients de divers secteurs (santé, finance et industrie).
+- Analyse, conception et développement d'applications web et mobiles pour des clients de divers secteurs (principalement finance et pharmaceutique).
+
+
+#### Vivalto Santé - 3eme groupe de cliniques et hopitaux privés Français
+
+- Lead des développements d'une suite complète pour l'admission pré-opératoire chez Vivalto Santé, englobant un portail web, un back-office, une application mobile et une interface pour bornes tactiles.
+
+##### Technologies utilisées:
+- Angular
+- Ionic
+- Cucumber JS
+- Jest
+
+#### Kepler Cheuvreux - Développement du portail de recherche en investissement à destination des traders
+
+##### Technologies utilisées:
+- Angular
+- Node JS
+- Cucumber JS
+- Jest
+- Gitlab CI
 
 ### Developpeur logiciel
 
