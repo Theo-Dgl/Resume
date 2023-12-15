@@ -93,7 +93,7 @@ Team leader d'une équipe pluridisciplinaire. Animation d'ateliers techniques, r
 - Development of the new back-end architecture.
 - Architecture hexagonale / Domain Driven Development.
 - Conception et développement de la brique d'authentification DSP2.
-- Technologies utilisées: Gitlab CI, PHPUnit, Behat, Symfony.
+- Technologies utilisées: Gitlab CI, PHPUnit, Behat, PHP, Symfony.
 
 ### Developpeur logiciel
 
