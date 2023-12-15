@@ -13,7 +13,7 @@ Développeur Full Stack expérimenté avec une solide expérience en développem
 
 ## COMPÉTENCES PRINCIPALES
 
-- Développement back-end
+- Développement Full Stack
 - Leadership technique
 - DevOps
 

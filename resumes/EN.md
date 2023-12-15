@@ -9,7 +9,7 @@ Full Stack Developer @ Montreal, Quebec, Canada
 
 ## MAIN SKILLS
 
-- Back-End Development
+- Full Stack Development
 - Technical Leadership
 - DevOps
 
