@@ -12,10 +12,10 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Cache dependencies
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: ~/.texlive
         key: ${{ runner.os }}-texlive-${{ hashFiles('**/texlive.lst') }}
@@ -39,7 +39,7 @@ jobs:
         echo "::set-output name=artifact_path::resumes/${GITHUB_REPOSITORY_OWNER}*.pdf"
       
     - name: Upload PDF artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ steps.set_artifact_name.outputs.artifact_name }}
         path: resumes/*.pdf
