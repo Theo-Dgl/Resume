@@ -28,7 +28,7 @@ jobs:
     - name: Convert Markdown to PDF
       run: |
         for file in resumes/*.md; do
-            pandoc -f markdown -t latex --include-in-header=.github/workflows/header.tex -V geometry:margin=1in -V "footer-includes=" -V "mainfont: Roboto" -V "mainfontoptions: ItalicFont=Roboto-Italic" -o "${GITHUB_REPOSITORY_OWNER} - ${file%.md}.pdf" "$file"
+            pandoc -f markdown -t latex --include-in-header=.github/workflows/header.tex -V geometry:margin=1in -V "footer-includes=" -V "mainfont: Roboto" -V "mainfontoptions: ItalicFont=Roboto-Italic" -o "${file%.md}.pdf" "$file"
         done
 
     - name: Set Artifact Name
