@@ -31,12 +31,11 @@ jobs:
             pandoc -f markdown -t latex --include-in-header=.github/workflows/header.tex -V geometry:margin=1in -V "footer-includes=" -V "mainfont: Roboto" -V "mainfontoptions: ItalicFont=Roboto-Italic" -o "${GITHUB_REPOSITORY_OWNER} - ${file%.md}.pdf" "$file"
         done
 
-    - name: Set Artifact Name and Path
+    - name: Set Artifact Name
       id: set_artifact_name
       run: |
         DATE=$(date +%d%m%y)
         echo "::set-output name=artifact_name::${DATE} - ${GITHUB_REPOSITORY_OWNER} CV"
-        echo "::set-output name=artifact_path::resumes/${GITHUB_REPOSITORY_OWNER}*.pdf"
       
     - name: Upload PDF artifacts
       uses: actions/upload-artifact@v2
