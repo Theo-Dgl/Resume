@@ -14,10 +14,10 @@ Développeur Full Stack expérimenté avec une solide expérience en développem
 ## COMPÉTENCES PRINCIPALES
 
 - Développement Full Stack
-- React (Typescript)
-- Serverless (Firebase / GCP / AWS)
-- Leadership et mentorat d'équipe
+- Typescript (React, Angular, Svelte)
+- Serverless (AWS / Firebase / GCP)
 - Services AWS : Lambda, API Gateway, DynamoDB, S3, Cognito
+- Leadership et mentorat d'équipe
 - Technologies Frontend : HTML, SASS, MaterialUI, Next.js
 - Méthodologies produit (Agile et Design Thinking)
 
@@ -51,7 +51,7 @@ Développeur Full Stack expérimenté avec une solide expérience en développem
 Responsable technique de la startup, définition de la stack et bootstrapping de la plateforme en vue d'un partenariat avec la compagnie ferroviaire OuiGo.  
 
 ##### Technologies utilisées:
-- Lambda (Typescript, NodeJs)
+- Lambda (Python, NodeJs)
 - DynamoDB
 - SES
 - Cognito
@@ -78,7 +78,7 @@ Bootstrapping et conception d’une plateforme de détection des départs client
 Développement complet, implémentation de fonctionnalités, migration de données, optimisation des performances, amélioration des processus de livraison.
 
 ##### Technologies utilisées:
-- Google Cloud Function (NodeJs)
+- Node.js
 - Firebase Auth
 - Algolia
 - React (Typescript)
