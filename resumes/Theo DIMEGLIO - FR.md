@@ -24,6 +24,15 @@ Développeur Full Stack expérimenté avec une solide expérience en développem
 
 ## EXPERIENCE
 
+### Responsable technique de l'ingénierie logicielle @ La Vitrine Culturelle
+<sub>Février 2024 - Février 2025 (1 an) | Montreal, Canada</sub>
+
+- Identifier et résoudre les problèmes techniques complexes, mettre en place des solutions d'architecture cloud (Google Cloud Platform) et optimiser les performances des applications
+- Analyser et définir l'architecture technique des projets (Supabase, Firebase, PostgreSQL), établir les spécifications techniques et sélectionner les technologies appropriées
+- Collaborer avec les parties prenantes et les clients pour définir les exigences techniques et coordonner les activités de développement
+- Diriger et superviser les équipes de développement dans la conception des solutions logicielles en assurant le respect des meilleures pratiques
+- Effectuer la revue de code, implémenter les processus CI/CD (GitHub Actions) et assurer la qualité du code via des tests automatisés
+
 ### Lead Full Stack Developer @ theTribe 
 <sub>Avril 2021 - janvier 2023 (1 an 10 mois) | Nantes, France</sub>
 
