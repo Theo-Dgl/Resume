@@ -16,5 +16,5 @@ Ideally, I would like to work for a software publisher or an end-customer with a
 
 ## RESUMES
 
-- [**FRANÇAIS**](resumes/FR.md)
-- [**ENGLISH**](resumes/EN.md)
+- [**FRANÇAIS**](resumes/Theo%20DIMEGLIO%20-%20FR.md)
+- [**ENGLISH**](resumes/Theo%20DIMEGLIO%20-%20EN.md)
